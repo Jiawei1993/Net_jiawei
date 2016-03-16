@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-green
-=======
-<<<<<<< HEAD
-ddghj
-=======
-green
->>>>>>> afe644a... green
->>>>>>> dev
