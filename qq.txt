@@ -1,3 +1,7 @@
 first
 second
+<<<<<<< HEAD
 dwf
+=======
+efee
+>>>>>>> dev
